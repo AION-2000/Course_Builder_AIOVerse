@@ -34,7 +34,6 @@
 
 ## 🛠️ Tech Stack
 
-*Note: Logos sourced from [Devicons](https://devicons.dev/).*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" title="PHP">
