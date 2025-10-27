@@ -138,7 +138,7 @@ This project is licensed under the **MIT License**.
 ---
 
 <p align="center">
-  <strong>👨‍💻 Developer — Fahim Hasan</strong><br>
+  <strong>👨‍💻 Developer — Shihab Shahriar Aion</strong><br>
   Full-Stack Web Developer (Laravel + Integrated Frontend) & Machine Learning Enthusiast<br>
   Based in Bangladesh
 </p>
@@ -147,10 +147,10 @@ This project is licensed under the **MIT License**.
   <a href="https://github.com/AION-2000" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/fahimhasan2000" target="_blank">
+  <a href="https://www.linkedin.com/in/aion-a1i2o3n4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:fahimhasan.programmer@gmail.com" target="_blank">
+  <a href="mailto:aionshihabshahriar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
