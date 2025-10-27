@@ -135,9 +135,31 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contribute
 
-Found a bug or want to suggest a feature?
+---
 
-👉 Submit an Issue or PR here:  
-https://github.com/AION-2000/Course_Builder_AIOVerse
+<p align="center">
+  <strong>👨‍💻 Developer — Fahim Hasan</strong><br>
+  Full-Stack Web Developer (Laravel + Integrated Frontend) & Machine Learning Enthusiast<br>
+  Based in Bangladesh
+</p>
 
-⭐ If you like this project — don’t forget to **Star** the repository!
+<p align="center">
+  <a href="https://github.com/AION-2000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/fahimhasan2000" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fahimhasan.programmer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with%20❤️-using%20Laravel-blueviolet?style=for-the-badge" alt="Built with Laravel">
+</p>
+
+<p align="center">
+⭐ If you like this project, please consider starring the repository!
+</p>
+
