@@ -114,6 +114,7 @@ Now visit 👉 http://127.0.0.1:8000 🎉
 
 
 ### Database (MySql)
+<img width="1496" height="735" alt="image" src="https://github.com/user-attachments/assets/39584d54-89fd-4820-8315-762d6c5aa905" />
 
 
 
