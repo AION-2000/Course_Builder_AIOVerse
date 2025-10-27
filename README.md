@@ -103,15 +103,17 @@ Now visit 👉 http://127.0.0.1:8000 🎉
 ## 📸 Screenshots
 
 ### Create Course Page
-<img src="docs/images/1-create-course.png" alt="Create Course Page Screenshot" width="800">
+<img width="1920" height="913" alt="1-create-course" src="https://github.com/user-attachments/assets/86967d06-1065-427e-ab98-76f61c65f8d6" />
+
 
 ### All Courses Page
-<img src="docs/images/2-all-courses.png" alt="All Courses Page Screenshot" width="800">
+<img width="1920" height="912" alt="2-all-courses" src="https://github.com/user-attachments/assets/42f74822-eb8c-475f-9b65-00cd6b8da213" />
+
 
 ### Course Details Page
-<img src="docs/images/3-course-details.png" alt="Course Details Page Screenshot" width="800">
+<img width="1914" height="912" alt="3-course-details" src="https://github.com/user-attachments/assets/438f2357-03f8-4adb-9680-9bcfde507406" />
 
-> ✅ Replace `docs/images/` if needed
+
 
 ---
 
