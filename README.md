@@ -113,6 +113,9 @@ Now visit 👉 http://127.0.0.1:8000 🎉
 <img width="1914" height="912" alt="3-course-details" src="https://github.com/user-attachments/assets/438f2357-03f8-4adb-9680-9bcfde507406" />
 
 
+### Database (MySql)
+
+
 
 ---
 
