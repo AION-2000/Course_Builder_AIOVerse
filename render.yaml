@@ -13,5 +13,3 @@ services:
         value: false
       - key: LOG_CHANNEL
         value: stderr
-      - key: DB_CONNECTION
-        value: pgsql
