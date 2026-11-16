@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>A dynamic, modern web application for creating and managing online courses. Built as a submission for a Laravel interview task, this project showcases full-stack web development skills with a sleek "glassmorphism" UI and seamless user experience.</em>
+  <em>A Laravel course-creation platform for organizing courses and learning content through a modern web interface. This full-stack project was developed as an interview-task submission.</em>
 </p>
 
 <p align="center">
